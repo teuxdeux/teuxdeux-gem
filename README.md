@@ -1,4 +1,3 @@
-teuxdeux-gem
-============
+# TeuxDeux Ruby Gem
 
-TeuxDeux Ruby Gem
+Coming soon.
